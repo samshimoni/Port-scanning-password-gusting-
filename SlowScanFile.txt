@@ -1,0 +1,2 @@
+| Port number | Status |
+| 22 | Open |
